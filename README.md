@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SumitMondal96
-- 👀 I’m interested in Java, Python & Swift
+- 👀 I’m interested in Java & Swift
 - 🌱 I’m currently learning Java & Swift
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me sumitskm96@gmail.com
